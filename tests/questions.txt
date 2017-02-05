@@ -1,0 +1,7 @@
+Merging intervals
+Merge lists/arrays
+Implement read() using read4k()
+1 round of distributed system and large scale system design
+Compress string "aabcaaaaade" to "aabc5xade". Only compress if it shortens the string. 5xa means char a is repeated 5 times.
+Question on 2 lists and their union/ intersection/ remove elements present in L1 which are also present in L2  
+Heap formation
